@@ -1,4 +1,4 @@
-# Metasploit Ehtical Penetration Testing Lab
+# Metasploit Ethical Penetration Testing
 ## Overview
 This project simulates a penetration test on AeroTech, a multinational aeronautical corporation, to identify and mitigate vulnerabilities before an actual attack occurs.
 
